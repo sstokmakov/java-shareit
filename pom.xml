@@ -14,8 +14,8 @@
     <version>0.0.1-SNAPSHOT</version>
 
     <modules>
-        <module>gateway</module>
-        <module>server</module>
+        <module>shareit-gateway</module>
+        <module>shareit-server</module>
         <module>shareit-dto</module>
     </modules>
 
